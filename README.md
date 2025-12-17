@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Captura de pantalla 2025-12-17.png" width="100%" alt="Abril del Rio - Técnica en Programación">
+<img src="Captura de pantalla 2025-12-17.png" width="100%" alt="Abril del Rio - Técnica en Programación">
 
 # ¡Hola! Soy Abril del Rio 👋
 ### Técnica Universitaria en Programación | Análisis de Datos
