@@ -17,18 +17,18 @@ Soy **Técnica Universitaria en Programación** con una fuerte base analítica y
 
 #### [SportHouse](https://github.com/AgustinCerino/sportHouseGym)
 Plataforma integral de rutinas fitness con planes Básico y Premium.
-  **Hitos:** Gestión de pagos con API de **Mercado Pago**, calendario personal para usuarios y administración de rutinas.
-  **Stack:** Angular standalone, TypeScript, JS, CSS, HTML, SQL.
+<br>  **Hitos:** Gestión de pagos con API de **Mercado Pago**, calendario personal para usuarios y administración de rutinas.
+<br>  **Stack:** Angular standalone, TypeScript, JS, CSS, HTML, SQL.
 
 #### [OrganizerSync](https://github.com/QuimeyDAgos/TpFinal3Qd)
 Sistema de gestión para conciertos adaptado a necesidades específicas de eventos.
-  **Hitos:** Administración de venta de entradas, productos (merch y comida) y reproducción de canciones.
-  **Stack:** Java.
+<br>  **Hitos:** Administración de venta de entradas, productos (merch y comida) y reproducción de canciones.
+<br>  **Stack:** Java.
 
 #### [Quiz Game](https://github.com/abrumay/Quiz-Game)
 Sistema de juego interactivo con lógica computacional avanzada.
-  **Hitos:** Modos individual y 1vs1, gestión de rankings, niveles y panel administrativo.
-  **Stack:** Lenguaje C.
+<br>  **Hitos:** Modos individual y 1vs1, gestión de rankings, niveles y panel administrativo.
+<br>  **Stack:** Lenguaje C.
 
 ---
 
