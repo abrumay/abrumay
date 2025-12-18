@@ -33,11 +33,11 @@ Sistema de juego interactivo con lógica computacional avanzada.
 ---
 
 ### 🛠️ Habilidades Técnicas
-**Bases de Datos & SQL:** Consultas, estructura relacional y manejo de archivos.
-**Lenguajes:** C, JavaScript, TypeScript, Python y Java.
-**Análisis de Datos:** Power BI (visualizaciones), reporte en entornos web y Ciencia de Datos.
-**Desarrollo Web:** Angular standalone, JSON, HTML y CSS.
-**Documentación:** Elaboración de procesos y organización de flujos técnicos.
+* **Bases de Datos & SQL:** Consultas, estructura relacional y manejo de archivos.
+* **Lenguajes:** C, JavaScript, TypeScript, Python y Java.
+* **Análisis de Datos:** Power BI (visualizaciones), reporte en entornos web y Ciencia de Datos.
+* **Desarrollo Web:** Angular standalone, JSON, HTML y CSS.
+* **Documentación:** Elaboración de procesos y organización de flujos técnicos.
 
 ---
 
