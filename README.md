@@ -55,7 +55,3 @@ Sistema de juego interactivo con lógica computacional avanzada.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrumay&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrumay&layout=compact&theme=tokyonight" height="170" />
-</div>
