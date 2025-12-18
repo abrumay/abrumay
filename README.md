@@ -7,8 +7,8 @@
 ### 📖 Sobre mí
 Soy **Técnica Universitaria en Programación** con una fuerte base analítica y experiencia en manejo y organización de datos. Actualmente me desempeño como **Ayudante de Cátedra** en la materia de Programación en la **UTN**, donde colaboro en el seguimiento académico, elaboración y corrección de parciales.
 
-* 🎓 **Educación:** Técnica Universitaria en Programación (UTN).
-* 🗣️ **Idiomas:** Inglés avanzado (B1/B2) - Cem English Academy.
+* 🎓 **Educación:** Técnica Universitaria en Programación (UTN)  2022-2024.
+* 🗣️ **Idiomas:** Inglés avanzado (B1/B2) - Cem English Academy  2024-Actualidad.
 * 💡 **Perfil:** Proactiva, responsable y orientada a resultados, con gran capacidad de aprendizaje y adaptación.
 
 ---
